@@ -1,0 +1,51 @@
+body {
+  background-color: #A8A;
+}
+
+h1 {
+  background-color: rgba(80, 30, 75, 1);
+  text-align: center;
+  width: 80%;
+  margin: auto;
+  color: #A8A;
+}
+
+h2 {
+  text-align: center;
+  border: 4px dotted black;
+  width: 80%;
+  margin: auto;
+  margin-top: 8px;
+}
+
+#tonys {
+ display:inline-block;
+ float: left;
+ width: 35%;
+ text-align: center;
+ margin-left: 10%;
+}
+
+#wolfgangs {
+  display:inline-block;
+  float: right;
+  width: 35%;
+  text-align: center;
+  margin-right: 10%;
+}
+
+#tonys li, #wolfgangs li {
+  text-align: left;
+}
+
+img {
+  width: 80%;
+  display: block;
+  margin: auto;
+}
+
+table {
+  margin: auto;
+  margin-top: 20px;
+  width: 70%;
+}
